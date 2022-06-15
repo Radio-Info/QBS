@@ -1,2 +1,2 @@
 # QBS
-Website For QBS - Quigg Building & Surveying
+Website For QBSNI - Quigg Building & Surveying
